@@ -16,4 +16,19 @@ It is encouraged that you include your report on your project github repo itself
   > Himal Joshi - [GitHub](https://github.com/drewjustinn)</br>
   > Sanoj Dahal - [GitHub](https://github.com/sanojDD)
 
+- [BB84 QUANTUM KEY DISTRIBUTION VISUALIZER](https://github.com/YuneshShrestha/BB84_Web_Demo.git)<br/>
+  > Yunesh Shrestha - [GitHub](https://github.com/YuneshShrestha)</br>
+  > Sulav Bhandari - [GitHub](https://github.com/cropped33)</br>
+  > Nishant Bhattarai - [GitHub](https://github.com/bhattaraikoxoro)</br>
+  > Bijaya Sharma - [GitHub](https://github.com/bijya0101)</br>
+
+- [UTILIZING QUANTUM CONCEPTS FOR AN ENTANGLED GAMING EXPERIENCE IN QUANTUM TIC-TAC-TOE](https://github.com/Roshanchau/quantum_tic_tac_toe.git)<br/>
+  > Roshan Chaudhary - [GitHub](https://github.com/Roshanchau)</br>
+  > Saurab Baral - [GitHub](https://github.com/Twtamaris)</br>
+  > Prashant Bhattarai - </br>
+  > Kritika Thapa - </br>
+
+- [Sim8085: 8085 emulator written in python which allows for intuitive and easy environment for development for 8085 cpu](https://github.com/rhishmapandey/Sim8085.git)<br/>
+  > Rhishma Pandey - [GitHub](https://github.com/Roshanchau)</br>
+  > Sanjeeb Karki
 ## Major Projects
