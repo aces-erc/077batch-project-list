@@ -29,6 +29,6 @@ It is encouraged that you include your report on your project github repo itself
   > Kritika Thapa - [PUR077BCT041]</br>
 
 - [Sim8085: 8085 emulator written in python which allows for intuitive and easy environment for development for 8085 cpu](https://github.com/rhishmapandey/Sim8085.git)<br/>
-  > Rhishma Pandey - [GitHub](https://github.com/Roshanchau) [PUR077BCT067]</br>
+  > Rhishma Pandey - [GitHub](https://github.com/rhishmapandey) [PUR077BCT067]</br>
   > Sanjeeb Karki [PUR077BCT072]
 ## Major Projects
